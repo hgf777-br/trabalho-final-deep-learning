@@ -1,6 +1,4 @@
 /.vscode
-/mlp-seq.png
-/model.png
 /modelo_mlp_ex3_1.hdf5
 /modelo_mlp_ex3_2.hdf5
 /modelo_mlp_ex3_3.hdf5
@@ -8,3 +6,5 @@
 /reports
 *.zip
 *.jpg
+*.png
+*.jpeg
